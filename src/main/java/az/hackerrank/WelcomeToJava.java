@@ -1,6 +1,6 @@
-package az.hackerrank.welcomeToJava;
+package az.hackerrank;
 
-public class Main {
+public class WelcomeToJava {
     public static void main(String[] args) {
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");

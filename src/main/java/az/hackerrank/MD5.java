@@ -1,11 +1,11 @@
-package az.hackerrank.javaMD5;
+package az.hackerrank;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
-public class Main {
+public class MD5 {
     public static String doHashPassword(String password) {
 
         try {
