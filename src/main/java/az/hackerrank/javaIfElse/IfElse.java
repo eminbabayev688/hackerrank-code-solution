@@ -1,4 +1,4 @@
-package az.hackerrank;
+package az.hackerrank.javaIfElse;
 
 import java.util.Scanner;
 

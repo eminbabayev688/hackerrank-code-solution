@@ -1,4 +1,4 @@
-package az.hackerrank;
+package az.hackerrank.javaExceptionHandlingTryCatch;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

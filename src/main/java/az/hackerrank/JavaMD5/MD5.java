@@ -1,4 +1,4 @@
-package az.hackerrank;
+package az.hackerrank.JavaMD5;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

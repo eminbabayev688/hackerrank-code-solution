@@ -1,4 +1,4 @@
-package az.hackerrank;
+package az.hackerrank.welcomeToJava;
 
 public class WelcomeToJava {
     public static void main(String[] args) {
